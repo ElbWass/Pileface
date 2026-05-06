@@ -93,12 +93,3 @@ Bibliothèque Python de visualisation de données. Utilisée ici pour générer 
 - **Mesure** : effondrement de la superposition vers 0 ou 1 de façon aléatoire
 
 ---
-
-## Problèmes courants
-
-| Problème | Solution |
-|---|---|
-| `pip` introuvable | Fermer et rouvrir le terminal après l'installation de Python |
-| `python` introuvable | Vérifier que "Add python.exe to PATH" a bien été coché à l'installation |
-| Bloqué sur la question email | Créer le fichier `credentials.toml` (voir Étape 3) |
-| Port déjà utilisé | Modifier le port dans `~/.streamlit/config.toml` |
