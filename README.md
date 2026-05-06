@@ -51,7 +51,7 @@ python -m streamlit run app.py
 ```
 
 L'application s'ouvre automatiquement dans votre navigateur à l'adresse :
-**http://localhost:6000**
+**http://localhost:8501**
 
 ---
 
